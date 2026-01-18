@@ -8,7 +8,7 @@ Le fichier contenu dans ce dépôt est nécessaire pour l'installation ou la mis
 
 ## 📦 Contenu du dépôt
 
-* **MicrosoftDeploymentToolkit_x64.msi** (ou le nom exact de ton fichier) : L'installeur principal pour MDT 8456.
+* **MicrosoftDeploymentToolkit_x64.msi** L'installeur principal pour MDT 8456.
 
 ## 🚀 Installation rapide
 
